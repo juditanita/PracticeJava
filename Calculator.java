@@ -4,8 +4,8 @@ public class Calculator {
 
 	public static void main(String[] args) {
 
-		System.out.println("This calculator was design by Judit A. Szabo " + "to  + (add), -(substract), *(multiply), "
-				+ "/ (divide), % (see the remains), p (exponent)" + " of two numbers");
+		System.out.println("This calculator was design by Judit A. Szabo  + to add, - substract, * multiply, 
+				/ divide, % see the remains, p expontial  of two numbers");
 
 		Scanner input = new Scanner(System.in);
 
